@@ -1,1 +1,21 @@
-// This is your blank starting team project - Dr. C
+
+
+
+hmbrLanding.onclick=function(s){
+    if (typeof(s) == "object") { // do nothing - they just clicked on the control
+       return
+    } else {
+       switch(s) {
+            case "Account":
+                ChangeForm(CustomerAccount)
+                break
+            case "Sign In":
+                ChangeForm(Login)
+                break
+            case "Contact Us":
+                ChangeForm(ContactUs)
+                break
+       }
+   }
+}       
+
