@@ -14,36 +14,54 @@
       "!type": "External",
       "file": [
         "forms",
-        "LandingPage",
+        "ReservationT1",
         "Elements",
-        "hmbrLanding.json"
+        "lblT1Annoucement.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "LandingPage",
+        "ReservationT1",
         "Elements",
-        "lblTitle.json"
+        "lblT1Description.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "LandingPage",
+        "ReservationT1",
         "Elements",
-        "inptRestSearch.json"
+        "Dropdown2.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "LandingPage",
+        "ReservationT1",
         "Elements",
-        "btnLandingSubmit.json"
+        "lblT1SelectTime.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ReservationT1",
+        "Elements",
+        "btnT1Confirm.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ReservationT1",
+        "Elements",
+        "btnT1FloorPlan.json"
       ]
     }
   ],
@@ -53,7 +71,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "LandingPage",
+  "id": "ReservationT1",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

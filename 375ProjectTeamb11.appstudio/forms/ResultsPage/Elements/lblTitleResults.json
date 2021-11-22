@@ -17,9 +17,9 @@
   "fontWeight": "",
   "height": 45,
   "hidden": "",
-  "id": "lblTitle",
+  "id": "lblTitleResults",
   "labelStyle": "text",
-  "left": 1,
+  "left": 0,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 64,
+  "top": 0,
   "value": "SITDOWN",
-  "width": 323
+  "width": 324
 }
