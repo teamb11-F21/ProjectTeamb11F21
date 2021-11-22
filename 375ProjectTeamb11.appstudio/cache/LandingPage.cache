@@ -1,10 +1,14 @@
-
-
+let req = ""
+let query = ""
+let results = ""
+let netID = "gak77901"
+let pw = "Ym100%otsydt" 
+let databaseSchema = "375groupb11"
 
 hmbrLanding.onclick=function(s){
-    if (typeof(s) == "object") { // do nothing - they just clicked on the control
+    if (typeof(s) == "object") {
        return
-    } else {
+     } else {
        switch(s) {
             case "Account":
                 ChangeForm(CustomerAccount)
@@ -15,7 +19,11 @@ hmbrLanding.onclick=function(s){
             case "Contact Us":
                 ChangeForm(ContactUs)
                 break
-       }
-   }
+        }
+    }
 }       
 
+
+btnLandingSubmit.onclick=function(){
+  ChangeForm(ResultsPage)
+}

@@ -14,36 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "LandingPage",
+        "Customer",
         "Elements",
-        "hmbrLanding.json"
+        "lblTitleCustomer.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "LandingPage",
+        "Customer",
         "Elements",
-        "lblTitle.json"
+        "Label1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "LandingPage",
+        "Customer",
         "Elements",
-        "inptRestSearch.json"
+        "Label2.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "LandingPage",
+        "Customer",
         "Elements",
-        "btnLandingSubmit.json"
+        "hmbrLandingCopy.json"
       ]
     }
   ],
@@ -53,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "LandingPage",
+  "id": "Customer",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

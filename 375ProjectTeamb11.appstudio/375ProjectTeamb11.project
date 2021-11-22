@@ -26,6 +26,38 @@
             "LandingPage",
             "LandingPage.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ResultsPage",
+            "ResultsPage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "MsPub",
+            "MsPub.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ReservationT1",
+            "ReservationT1.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Customer",
+            "Customer.json"
+          ]
         }
       ],
       "configxml": null,
